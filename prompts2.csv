@@ -1639,7 +1639,7 @@
 "Act as an IELTS test taker with a band score of 8.0. Given the following IELTS Writing Task 2 question, generate 3 arguments to support/oppose the statement: [insert IELTS Writing Task 2 question]"
 "Act as an IELTS test taker with a band score of 8.0. Write an essay in response to the following IELTS Writing Task 2 question with at least 250 words: [insert IELTS Writing Task 2 question]"
 "Act as an IELTS test taker with a band score of 8.0. Write a short introduction paragraph for an essay in response to the following IELTS Writing Task 2 question: [insert IELTS Writing Task 2 question]"
-"Act as an IELTS test taker with a band score of 8.0. Write a short conclusion paragraph for this half-done essay: "[insert your essay]""
+"Act as an IELTS test taker with a band score of 8.0. Write a short conclusion paragraph for this half-done essay: [insert your essay]"
 "For your information, the essay is written in response to the following IELTS Writing Task 2 question: [insert IELTS Writing Task 2 question]"
 "Act as an IELTS test taker with a band score of 8.0. Elaborate/Explain the following argument in 3-4 sentences: [insert your argument]"
 "For your information, this argument is part of an essay written in response to the following IELTS Writing Task 2 question: [insert IELTS Writing Task 2 question]"
